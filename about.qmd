@@ -1,0 +1,17 @@
+---
+title: "About"
+---
+
+# Goals
+
+### Share Knowledge That Matters
+Create content that is interesting to read and contains valuable information. Share both expertise and learning experiences.
+
+### Keep It Simple to Keep Moving
+Resist perfectionism. Start small, publish regularly.
+
+### Build Technical Depth Over Time
+Use the blog as a platform to explore and document technical challenges. Create visualizations and explanations that help others learn what I've learned.
+
+### Write to Learn
+Improve writing through practice. Express ideas clearly to others instead of keeping them locked in my head.
