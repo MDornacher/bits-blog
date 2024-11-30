@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Goals\n\nShare Knowledge That Matters\nCreate content that is interesting to read and contains valuable information. Share both expertise and learning experiences.\n\n\nKeep It Simple to Keep Moving\nResist perfectionism. Start small, publish regularly.\n\n\nBuild Technical Depth Over Time\nUse the blog as a platform to explore and document technical challenges. Create visualizations and explanations that help others learn what I’ve learned.\n\n\nWrite to Learn\nImprove writing through practice. Express ideas clearly to others instead of keeping them locked in my head."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "src",
+    "section": "",
+    "text": "Welcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nNov 27, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  }
+]
